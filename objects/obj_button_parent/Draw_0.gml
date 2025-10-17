@@ -1,4 +1,4 @@
-shader_set(shd_button);
+//shader_set(shd_button);
 // Send uniform variables
 var u_time = shader_get_uniform(shd_button, "time");
 shader_set_uniform_f(u_time, time);

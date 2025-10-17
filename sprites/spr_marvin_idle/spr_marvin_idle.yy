@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_marvin_idle",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":996,
   "bbox_left":229,
   "bbox_right":748,
