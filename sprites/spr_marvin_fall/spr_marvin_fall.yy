@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_marvin_fall",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":999,
   "bbox_left":185,
   "bbox_right":929,

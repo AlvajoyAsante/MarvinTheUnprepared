@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_marvin_walk",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":999,
   "bbox_left":112,
   "bbox_right":790,

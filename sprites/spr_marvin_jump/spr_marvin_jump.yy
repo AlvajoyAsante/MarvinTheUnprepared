@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_marvin_jump",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":996,
   "bbox_left":88,
   "bbox_right":880,
