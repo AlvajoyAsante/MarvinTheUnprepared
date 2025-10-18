@@ -66,10 +66,9 @@ The game includes multiple challenging levels:
 Enter these codes in-game to unlock special features:
 
 ### Available Cheat Codes
-- **INFINITE_HEALTH** - Grants invincibility (unlimited health)
-- **INFINITE_STAMINA** - Removes stamina restrictions
-- **SKIP_LEVEL** - Skip to the next level
-- **GOD_MODE** - Enables both invincibility and unlimited stamina
+- **INFINITE_HEALTH** (F2)  - Grants invincibility (unlimited health)
+- **INFINITE_STAMINA** (F3) - Removes stamina restrictions
+- **GOD_MODE** (F4) - Enables both invincibility and unlimited stamina
 
 *Note: Cheat codes are for testing and entertainment purposes. Using them will disable achievement progression.*
 

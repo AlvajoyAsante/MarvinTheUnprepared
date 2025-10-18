@@ -9,6 +9,16 @@ if (!variable_instance_exists(self, "shoot_cooldown")) {
     shoot_cooldown = 0;
 }
 
+// Initialize damage cooldown if not set
+if (!variable_instance_exists(self, "damage_cooldown")) {
+    damage_cooldown = 0;
+}
+
+// Decrement damage cooldown
+if (damage_cooldown > 0) {
+    damage_cooldown--;
+}
+
 if (player != noone) {
     var dist = point_distance(x, y, player.x, player.y);
 

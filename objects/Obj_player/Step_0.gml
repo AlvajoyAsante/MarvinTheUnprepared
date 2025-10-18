@@ -172,6 +172,21 @@ if (global.shards == 3) {
 	room_goto(rm_ship_fix)
 }
 
+// --- CHEAT CODES ---
+// F1 - Collect all 3 shards
 if (keyboard_check(vk_f1)) {
 	global.shards = 3;
+	show_debug_message("Cheat: All shards collected!");
+}
+
+// F2 - INFINITE_HEALTH
+if (keyboard_check(vk_f2)) {
+	global.health = global.max_health;
+	show_debug_message("Cheat: INFINITE_HEALTH activated!");
+}
+
+// F3 - INFINITE_STAMINA
+if (keyboard_check(vk_f3)) {
+	global.stamina = global.max_stamina;
+	show_debug_message("Cheat: INFINITE_STAMINA activated!");
 }
