@@ -108,18 +108,18 @@ Enter these codes in-game to unlock special features:
 ## Credits & Licensing
 
 ### Game Development
-- **Developer:** Alvajoy Asante
+- **Developers:** Alvajoy, Preetam, Aditya
 - **Engine:** GameMaker Studio 2
 - **Year:** 2025
 
 ### Assets
 - Sprites, backgrounds, and visual effects created for this project
-- Music and sound effects created for this project
+- Music and sound effects created for this project were developed in-house by Kate
 - Fonts: Custom menu fonts (fnt_menu_40, fnt_menu_75)
 
 ### License
 
-**Marvin The Unprepared** is developed by Alvajoy Asante.
+**Marvin The Unprepared** is developed by Alvajoy, Preetam, Aditya.
 
 All game content, including but not limited to:
 - Game code and mechanics
@@ -137,37 +137,19 @@ All game content, including but not limited to:
 
 ---
 
-## Troubleshooting
-
-### Game Won't Start
-- Ensure GameMaker runtime is properly installed
-- Check system requirements
-- Verify all game files are present
-
-### Performance Issues
-- Lower resolution setting in options
-- Close background applications
-- Check available system memory
-
-### Audio Problems
-- Verify audio device is connected
-- Check volume settings in game options
-- Update audio drivers
-
----
-
 ## Contact & Support
 
 For bug reports, suggestions, or inquiries:
 - **GitHub:** https://github.com/AlvajoyAsante/MarvinTheUnprepared
-- **Developer:** Alvajoy Asante
+- **Developers:** Alvajoy, Preetam, Aditya 
+- **Artist & Sound Designer:** Kate
 
 ---
 
 ## Version History
 
 - **v1.0** - Initial release
-  - 3 main levels
+  - Main level
   - Enemy encounters
   - Platforming challenges
   - Main menu and help system
