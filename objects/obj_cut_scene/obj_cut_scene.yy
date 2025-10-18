@@ -26,7 +26,10 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"video_name","filters":[],"listItems":[],"multiselect":false,"name":"video_name","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"Cutscene_02.mp4","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"cs_room_goto","filters":[],"listItems":[],"multiselect":false,"name":"cs_room_goto","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"rm_title_1","path":"rooms/rm_title_1/rm_title_1.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"rm_title_1","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

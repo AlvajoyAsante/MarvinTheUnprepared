@@ -7,7 +7,7 @@ attack_cooldown=0;
 /// Enemy Create Event
 range = 250; // Distance to detect player
  // Frames between bullets (~0.66 sec at 60 fps)
-
+pre_hspeed = hspeed
 
 flash_strength = 0;
 flash_decay = 0.2;

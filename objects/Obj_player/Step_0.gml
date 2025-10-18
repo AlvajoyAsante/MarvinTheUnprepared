@@ -167,3 +167,11 @@ if (y > room_height + 100) {
 if (flash_strength > 0) {
     flash_strength = max(0, flash_strength - 0.2);
 }
+
+if (global.shards == 3) {
+	room_goto(rm_ship_fix)
+}
+
+if (keyboard_check(vk_f1)) {
+	global.shards = 3;
+}

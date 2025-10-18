@@ -14,7 +14,8 @@ draw_sprite(spr_health_bar, global.health, _bar_x, _bar_y);
 draw_sprite(spr_stamina_bar, floor(global.stamina), _bar_x, _bar_y); // slightly below health
 
 
-draw_set_color(c_white);
+//draw_set_color(c_white);
+draw_set_font(-1); 
 draw_text(10, 10, "GUI Width: " + string(display_get_gui_width()));
 draw_text(10, 30, "GUI Height: " + string(display_get_gui_height()));
 draw_text(10, 50, "Stamina: " + string(global.stamina));

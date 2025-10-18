@@ -1,5 +1,5 @@
 // Time variable for smooth motion
-time = current_time / 10; // Divide to slow down oscillation
+var time = current_time / 10; // Divide to slow down oscillation
 
 // Smooth vertical hover
 y = base_y + sin(time * hover_speed) * hover_amplitude;

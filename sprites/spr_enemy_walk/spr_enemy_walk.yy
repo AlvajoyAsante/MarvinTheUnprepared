@@ -28,7 +28,7 @@
   ],
   "name":"spr_enemy_walk",
   "nineSlice":null,
-  "origin":7,
+  "origin":4,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -98,7 +98,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":500,
-    "yorigin":1000,
+    "yorigin":500,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
