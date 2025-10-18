@@ -14,19 +14,20 @@ Navigate through multiple levels, defeat enemies, collect power-ups, and progres
 ## Controls
 
 ### Movement & Actions
-- **A / Left Arrow** - Move Left
-- **D / Right Arrow** - Move Right
-- **W / Up Arrow / Space** - Jump
-- **S / Down Arrow** - Crouch
-- **Left Click / Z** - Attack/Shoot
+- **Left Arrow** - Move Left
+- **Right Arrow** - Move Right
+- **Up Arrow** - Jump (includes double jump in air)
+- **Space** - Dash (horizontal movement with cooldown)
+- **Down Arrow** - Crouch (on ground) / Fast Fall (in air)
+- **X** - Attack
 
 ### Menu Navigation
 - **Mouse Click** - Select buttons
 - **Escape / Back Button** - Return to previous menu
 
-### Additional Controls
-- **P** - Pause Game (during gameplay)
-- **ESC** - Exit to Main Menu
+### Advanced Controls
+- **Left Shift** - Sprint (consumes stamina)
+- **F1** - Debug cheat (collect all 3 shards)
 
 ---
 
