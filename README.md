@@ -36,8 +36,6 @@ Navigate through multiple levels, defeat enemies, collect power-ups, and progres
 ### Levels
 The game includes multiple challenging levels:
 - **Level 1** - Introduction to basic platforming
-- **Level 2** - Increased difficulty with more enemies
-- **Level 3** - Advanced challenges and boss encounters
 
 ### Gameplay Elements
 - **Health System** - Monitor your health bar; collect health pickups to restore
@@ -50,26 +48,12 @@ The game includes multiple challenging levels:
 
 ## Game Walkthrough
 
-### Level 1: Getting Started
-1. Start by familiarizing yourself with basic movement using **A/D** or arrow keys
-2. Practice jumping with **W** or **Space**
-3. Defeat the initial enemies using **Left Click** or **Z** to attack
+### Getting Started
+1. Start by familiarizing yourself with basic movement using **Left Arrow** and **Right Arrow**
+2. Practice jumping with **Up Arrow** or **Space**
+3. Defeat the initial enemies using **X** to attack
 4. Collect any shards you encounter - they're valuable collectibles
 5. Navigate to the level exit to progress
-
-### Level 2: Ramping Up
-1. Enemies are more aggressive - use crouch (**S**) to avoid attacks when needed
-2. Watch your stamina bar - don't exhaust yourself
-3. Use platforms strategically to gain height advantage over enemies
-4. Collect health items when your health is low
-5. Look for hidden areas that might contain bonus items
-
-### Level 3: Final Challenge
-1. This is the most difficult level - combine all skills you've learned
-2. Time your jumps carefully - there are precision platforming sections
-3. Manage resources (health and stamina) carefully
-4. Defeat all enemies to proceed
-5. Face the final boss encounter and complete your mission
 
 ### Cut Scene Events
 - The game features cinematic cut scenes that advance the story
